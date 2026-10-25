@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">园丁日记</string>
+    <string name="title_activity_main">园丁日记</string>
+    <string name="package_name">com.gardendiary.local</string>
+    <string name="custom_url_scheme">com.gardendiary.local</string>
+</resources>

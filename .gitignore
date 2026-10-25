@@ -1,0 +1,17 @@
+node_modules/
+dist/
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+*.log
+.toolchain/
+signing/
+qa/
+release/
+android/app/src/main/assets/
+*.jks
+*.keystore
+**/signing.properties
+.env
+.env.*
